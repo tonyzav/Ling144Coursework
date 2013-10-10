@@ -196,7 +196,7 @@ def pigLatinParts(text):
     
     tokens = text.split(" ")
     PLarray = []
-    punct = {",",".","?","'"}
+    punct = {",",".","?","'","!"}
     
     for token in tokens:
         
