@@ -207,6 +207,8 @@ def pigLatinParts(text):
     
     return " ".join(PLarray)
     
+    #there's nothing in here about ifway or actuallyay. 
+    
 #problem 5
 dictionary = {} #initializing an empty dictionary
 string = '''When I was little, I thought a python was a snake.
